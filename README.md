@@ -1,4 +1,4 @@
-# Veridian - AI Home Energy Advisor 🌿
+# Veridian - AI Home Energy Advisor
 
 Veridian is a full-stack mobile application designed to help homeowners understand their energy consumption, discover personalized recommendations, and connect with government rebates and certified contractors to build a more sustainable future.
 
