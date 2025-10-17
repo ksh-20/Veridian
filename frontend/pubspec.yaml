@@ -1,0 +1,40 @@
+name: veridian_frontend
+description: A new Flutter project for the Veridian app.
+
+# Prevent accidental publishing to pub.dev.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# Your application's dependencies.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.8
+  google_sign_in: ^6.2.1
+  cloud_firestore: ^4.17.5
+
+  # State Management & API
+  provider: ^6.1.2
+  http: ^1.2.1
+  flutter_dotenv: ^6.0.0
+  fl_chart: ^0.69.0
+
+# Dependencies for development and testing only.
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - .env # Add this line

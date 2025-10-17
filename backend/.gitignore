@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+# Ignore Firebase service account key
+serviceAccountKey.json
+# backend/.gitignore
+.env

@@ -1,0 +1,8 @@
+# Flutter
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.dart_tool/
+# Frontend secrets
+/frontend/.env
