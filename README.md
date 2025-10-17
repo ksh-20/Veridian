@@ -46,7 +46,7 @@ To run this project locally, follow these steps:
 1.  **Clone the Repository**
 
     ```sh
-   git clone https://github.com/Imperiex-1911/Veridian
+   git clone https://github.com/ksh-20/Veridian
    cd Veridian
     ```
 
