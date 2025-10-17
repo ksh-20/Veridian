@@ -7,9 +7,7 @@ Veridian is a full-stack mobile application designed to help homeowners understa
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E77F0?style=for-the-badge&logo=google-gemini&logoColor=white)]()
 
-## 🎬 Live Demo
 
-https://youtu.be/OZiThfwGdwI
 ## ✨ Key Features
 
 - **Multi-Step Home Audit**: An intuitive wizard for users to input data about their appliances, insulation, and energy habits.
@@ -44,10 +42,10 @@ To run this project locally, follow these steps:
 ### Setup Instructions
 
 1.  **Clone the Repository**
-    ```sh
+  ```sh
    git clone https://github.com/ksh-20/Veridian
    cd Veridian
-    ```
+  ```
 
 2.  **Configure Firebase (Frontend)**
 
