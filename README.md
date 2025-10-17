@@ -44,7 +44,6 @@ To run this project locally, follow these steps:
 ### Setup Instructions
 
 1.  **Clone the Repository**
-
     ```sh
    git clone https://github.com/ksh-20/Veridian
    cd Veridian
